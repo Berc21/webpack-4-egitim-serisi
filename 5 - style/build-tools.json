@@ -1,0 +1,40 @@
+{
+  "data":  [
+    {
+      "name": "GNU Make",
+      "info": "GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. ",
+      "logo": "",
+      "homepage": "https://www.gnu.org/software/make/manual/make.html"
+    },
+    {
+      "name": "Grunt",
+      "info": "Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting. It uses a command-line interface to run custom tasks defined in a file (known as a Gruntfile). Grunt was created by Ben Alman and is written in Node.js. It is distributed via npm. As of September 2016, there were more than 5,000 plugins available in the Grunt ecosystem.",
+      "logo": "https://gruntjs.com/img/grunt-logo.svg",
+      "homepage": "https://gruntjs.com"
+    },
+    {
+      "name": "Gulp",
+      "info": "gulp is an open-source JavaScript toolkit by Fractal Innovations and the open source community at GitHub, used as a streaming build system in front-end web development.",
+      "logo": "https://gulpjs.com/img/gulp-white-text.svg",
+      "homepage": "https://gulpjs.com"
+    },
+    {
+      "name": "Browserify",
+      "info": "Browserify is an open-source JavaScript tool that allows developers to write Node.js-style modules that compile for use in the browser",
+      "logo-url": "http://browserify.org/images/wizard_hat_blue.png",
+      "homepage": "http://browserify.org/"
+    },
+    {
+      "name": "Webpack",
+      "info": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules. It takes the dependencies and generates a dependency graph allowing web developers to use a modular approach for their web application development purposes. The bundler can be used from the command line, or can be configured using a config file which is named webpack.config.js.",
+      "logo": "https://webpack.js.org/cd0bb358c45b584743d8ce4991777c42.svg",
+      "homepage": "https://webpack.js.org"
+    },
+    {
+      "name": "Parcel",
+      "info": "Parcel is a web application bundler tool for Javascript which promises blazing fast speed and zero configuration bundling.",
+      "logo": "https://parceljs.org/assets/logo.svg",
+      "homepage": "https://parceljs.org/"
+    }
+  ]
+}
